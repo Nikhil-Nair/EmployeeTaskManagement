@@ -1,0 +1,11 @@
+amqp==2.3.2
+billiard==3.5.0.3
+celery==4.1.1
+Django==2.0.6
+django-celery-results==1.0.1
+djangorestframework==3.8.2
+kombu==4.2.1
+pytz==2018.4
+redis==2.10.3
+vine==1.1.4
+XlsxWriter==1.0.5
